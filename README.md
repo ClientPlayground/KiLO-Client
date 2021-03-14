@@ -1,4 +1,4 @@
-# Kilo
+# KiLO Client
 1.7 | Version 1.2
 
 ## Disclaimer
